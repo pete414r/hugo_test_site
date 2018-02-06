@@ -1,4 +1,4 @@
-baseurl             = "https://you.github.io/"
+baseurl             = "https://prfrankild.dk/hugo/test_site"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
